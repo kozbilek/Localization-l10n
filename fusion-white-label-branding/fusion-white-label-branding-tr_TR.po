@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Fusion White Label Branding 1.0\n"
 "Report-Msgid-Bugs-To: https://theme-fusion.com/support/\n"
 "POT-Creation-Date: 2023-11-06 12:12:46+00:00\n"
-"PO-Revision-Date: 2025-01-26 10:41+0300\n"
+"PO-Revision-Date: 2025-01-26 10:47+0300\n"
 "Last-Translator: Kaan Özbilek\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
@@ -589,7 +589,7 @@ msgstr "ThemeFusion Haberleri"
 
 #: inc-admin-screens/wp-admin.php:210
 msgid "Custom Welcome Panel"
-msgstr "Özel Hoşgeldiniz Paneli"
+msgstr "Özel Hoş Geldiniz Paneli"
 
 #: inc/admin-screens/wp-admin.php:211
 msgid "This option adds a custom welcome panel to the dashboard. HTML markup along with core WP classes can be used to customize the layout further."
@@ -637,7 +637,7 @@ msgstr "Marka değişikliklerinin yönetici kullanıcı rolüne uygulanıp uygul
 
 #: inc/admin-screens/wp-login.php:18
 msgid "WordPress Login Screen Branding Settings"
-msgstr "WordPress Giriş Ekranı Marka Ayarları"
+msgstr "WordPress Giriş Ekranı Markalama Ayarları"
 
 #: inc-admin-screens/wp-login.php:19
 msgid "These settings will change items in the WordPress login area."
@@ -765,11 +765,11 @@ msgstr "Giriş sayfasından şifre unuttum bağlantısını kaldırır."
 
 #: inc/class-fusion-white-label-branding-admin.php:211
 msgid "Avada Branding"
-msgstr "Avada Markası"
+msgstr "Avada Markalama"
 
 #: inc/class-fusion-white-label-branding-admin.php:212 inc/class-fusion-white-label-branding-admin.php:375
 msgid "WP Admin"
-msgstr "WP Yönetici"
+msgstr "WP Yöneticisi"
 
 #: inc/class-fusion-white-label-branding-admin.php:213 inc/class-fusion-white-label-branding-admin.php:376
 msgid "WP Login Screen"
@@ -906,7 +906,7 @@ msgstr "Bildirimleri Kaldır"
 #. translators: The patch-ID.
 #: inc/patcher/class-fusion-patcher-admin-screen.php:420
 msgid "Please apply patch #%s first."
-msgstr "Lütfen önce #%s yamayı uygulayın."
+msgstr "Lütfen önce #%s yamasını uygulayın."
 
 #: inc/patcher/class-fusion-patcher-admin-screen.php:422
 msgid "Patch cannot be currently aplied."
